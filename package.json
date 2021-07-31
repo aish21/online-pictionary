@@ -1,5 +1,5 @@
 {
-  "name": "Locked Potential - Pictionary",
+  "name": "pictionary",
   "version": "0.1.0",
   "description": "Multiplayer pictionary!",
   "main": "server/main.js",
